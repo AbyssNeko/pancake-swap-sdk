@@ -76,10 +76,10 @@ export const WETH = {
   ),
   [ChainId.TESTNET]: new Token(
     ChainId.TESTNET,
-    '0xaE8E19eFB41e7b96815649A6a60785e1fbA84C1e',
+    '0x0b7e9Ff92C2aE55EbE1040AAe733Ffc1f93783E8',
     18,
-    'WBNB',
-    'Wrapped BNB',
-    'https://www.binance.org'
+    'WECO',
+    'Wrapped ECO',
+    'https://www.ecoball.org'
   )
 }
